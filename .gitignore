@@ -1,0 +1,15 @@
+*
+
+!*/
+!.gitignore
+!*.txt
+!*.py
+!*.sh
+!*.tex
+!*.bib
+!*.bst
+!*.cls
+!*.sty
+!*.pdf
+!*.png
+!*.svg
