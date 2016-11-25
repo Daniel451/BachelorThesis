@@ -27,6 +27,12 @@ The complete thesis can be viewed or downloaded here:
 The complete paper can be viewed or downloaded here:
 [paper_ball_localization_speck.pdf](https://gogs.mafiasi.de/12speck/BachelorThesis/src/master/paper_ball_localization_speck.pdf)
 
+##### Best Paper Award
+
+The paper won the _Best Paper Award for Engineering Contribution_
+at the 20th Annual RoboCup International Symposium 2016 in Leipzig, Germany.
+
+See: http://www.robocup2016.org/en/symposium/best-paper-award
 
 ##### Cite - Bibtex
 
