@@ -97,7 +97,7 @@ export BTEX="/home/your-user/repositories/speck-bachelor-thesis/code/"
 
 ### Data
 
-We (Hamburg Bit-Bots) are currently working on a cloud solution for image labelling
+We [(Hamburg Bit-Bots)](https://robocup.informatik.uni-hamburg.de/en/) are currently working on a cloud solution for image labelling
 that also allows downloading the data sets.
 
 ##### Trained Networks
