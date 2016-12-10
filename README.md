@@ -102,5 +102,5 @@ that also allows downloading the data sets.
 
 ##### Trained Networks
 
-I will release trained neural networks shortly. This will enable anyone to
+I will release trained neural networks shortly. This will enable you to
 load the pre-trained network and test it on your own data.
