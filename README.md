@@ -50,6 +50,8 @@ Convolutional Neural Networks},
 
 ### Code - Setup
 
+##### Python Modules
+
 In order to run the code examples you will need a Python 2.7 interpreter
 up and running as well as some additional Python libraries. Here's a list:
 
@@ -71,3 +73,34 @@ pytz==2016.7
 six==1.10.0
 tensorflow==0.11.0
 ```
+
+##### Environment Variables
+
+The code relies on the existance of three
+[environment variables](https://en.wikipedia.org/wiki/Environment_variable),
+which set up the paths to the executables, the data, and the log files.
+
+```
+BTLOG     # results and training info gets stored here
+BTDATA    # training/test data directory
+BTEX      # path to the repository / executables
+```
+
+You can set up environment variables directly via the terminal (non-permanent):
+
+```
+# example paths
+export BTLOG="/home/your-user/speck-bachelor-thesis/log/"
+export BTDATA="/home/your-user/speck-bachelor-thesis/data/"
+export BTEX="/home/your-user/repositories/speck-bachelor-thesis/code/"
+```
+
+### Data
+
+We (Hamburg Bit-Bots) are currently working on a cloud solution for image labelling
+that also allows downloading the data sets.
+
+##### Trained Networks
+
+I will release trained neural networks shortly. That way you will be able to
+load pre-trained networks to test on your own data.
